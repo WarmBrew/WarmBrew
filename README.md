@@ -11,7 +11,7 @@ Greetings, digital warriors and cyber defenders! I'm WarmBrew, a relentless crus
 - 🌱 I’m currently learning advanced penetration testing techniques and malware analysis to stay ahead of the curve.
 - 👯 I’m looking to collaborate on innovative security solutions and threat intelligence projects to make the digital world safer.
 - 💬 Ask me about anything related to cybersecurity, CVE vulnerability management, or the latest in threat hunting strategies.
-- 📫 How to reach me: warmbrew@securetech.com
+- 📫 How to reach me: warmbrew
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not hunting vulnerabilities, I'm an avid rock climber and enjoy challenging myself with complex routes.
 
