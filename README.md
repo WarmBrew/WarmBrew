@@ -19,6 +19,3 @@ Here are some ideas to get you started:
   <img src="https://gifdb.com/images/high/dragon-roar-fire-whbigw075ixf19r3.webp" alt="Dragon Roar Fire" style="width:100%;max-width:500px;">
 </div>
 
-<p style="text-align:center;">
-  <a href="https://gifdb.com/images/high/dragon-roar-fire-whbigw075ixf19r3.webp">via GIFDB</a>
-</p>
