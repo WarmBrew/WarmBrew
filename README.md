@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="position:relative;width:100%;height:0;padding-bottom:100%;overflow:hidden;">
-  <iframe src="https://giphy.com/embed/l1J3pT7PfLgSRMnFC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;overflow:hidden;">
+  <iframe src="https://giphy.com/embed/l1J3pT7PfLgSRMnFC" width="100%" height="100%" style="position:absolute;top:0;left:0;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 <p><a href="https://giphy.com/gifs/flying-dragon-l1J3pT7PfLgSRMnFC">via GIPHY</a></p>
 
@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 
 </style>
 <div class="dragon">
-  <img src="[https://media.giphy.com/media/l1J3pT7PfLgSRMnFC/giphy.gif](https://media.giphy.com/media/l1J3pT7PfLgSRMnFC/giphy.gif)" alt="Flying Dragon">
+  <img src="https://media.giphy.com/media/l1J3pT7PfLgSRMnFC/giphy.gif" alt="Flying Dragon">
 </div>
