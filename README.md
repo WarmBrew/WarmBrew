@@ -22,6 +22,20 @@ Greetings, digital warriors and cyber defenders! I'm WarmBrew, a relentless crus
 - 🎮 HackTheBox Player
 - 🐱‍💻 Hacker on HackerOne
 
+### CVE 
+- CVE-2024-39178
+- CVE-2024-30801
+- CVE-2024-30802
+- CVE-2024-28256
+- CVE-2024-28257
+- CVE-2024-22547
+- CVE-2023-24184
+
+
+### My GitHub Contributions
+
+![](https://cwd295645351.github.io/Cwd295645351/github-contribution-grid-snake.svg)
+
 Together, we can forge an unbreakable shield against the dark forces lurking in the shadows. Join me in this epic quest for cybersecurity dominance! 🛡️
 
 Stay vigilant, stay secure.
