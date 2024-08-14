@@ -32,7 +32,11 @@ Greetings, digital warriors and cyber defenders! I'm WarmBrew, a relentless crus
 - CVE-2024-28257
 - CVE-2024-22547
 - CVE-2023-24184
-- 
+- CVE-2024-42676
+- CVE-2024-42677
+- CVE-2024-42678
+- CVE-2024-42679
+- CVE-2024-42680
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ### My GitHub Contributions
