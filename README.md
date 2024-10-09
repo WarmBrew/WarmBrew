@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div style="text-align:center;">
-  <img src="https://gifdb.com/images/high/dragon-roar-fire-whbigw075ixf19r3.webp" alt="Dragon Roar Fire" style="width:100%;max-width:500px;">
+  <img src="./dragon.webp" alt="Dragon Roar Fire" style="width:100%;max-width:500px;">
 </div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
