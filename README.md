@@ -16,6 +16,7 @@ Greetings, digital warriors and cyber defenders! I'm WarmBrew, a relentless crus
 - 📫 How to reach me: warmbrew
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not hunting vulnerabilities, I'm an avid rock climber and enjoy challenging myself with complex routes.
+- 🤓 Member of the EU Information Security Hall of Fame
 
 ### My Interests
 - 🕵️‍♂️ Vulnerability Research
@@ -43,6 +44,19 @@ Greetings, digital warriors and cyber defenders! I'm WarmBrew, a relentless crus
 - CVE-2024-44759
 - CVE-2024-44760
 - CVE-2024-44761
+- CVE-2024-54702
+- CVE-2024-54704
+- CVE-2024-54706
+- CVE-2024-54707
+- CVE-2024-54708
+- CVE-2024-54709
+- CVE-2024-54712
+- CVE-2024-54716
+- CVE-2024-54717
+- CVE-2024-54718
+- CVE-2024-54723
+
+
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ### My GitHub Contributions
